@@ -1,0 +1,3 @@
+/home/sami/Documents/cpp/Ray tracing in one week/viewport/build/CMakeFiles/RayTracingExample.dir
+/home/sami/Documents/cpp/Ray tracing in one week/viewport/build/CMakeFiles/edit_cache.dir
+/home/sami/Documents/cpp/Ray tracing in one week/viewport/build/CMakeFiles/rebuild_cache.dir
